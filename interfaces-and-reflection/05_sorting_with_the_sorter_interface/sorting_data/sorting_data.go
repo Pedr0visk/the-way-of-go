@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"mysort"
 	// "sort"      // this uses the Go sort package, then replace mysort. with sort. in the code below
-	"./mysort" // this uses our own sort package (a subset of the Go sort package)
 )
 
 // sorting of slice of integers
